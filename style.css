@@ -1,0 +1,30 @@
+body { 
+    background-color: #8c7e7e6d;
+}
+h1 {
+    color: #126677;
+    padding-top: 30px;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    color: black;
+}
+span {
+    font-size: 5em;
+}
+button {
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #78adb8;
+    text-transform: uppercase;
+    width: 160px;
+
+
+}
